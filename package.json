@@ -1,0 +1,12 @@
+{ "name" : "domo"
+, "description" : "Templating, the JavaScript way"
+, "version" : "0.0.1"
+, "homepage" : "https://github.com/stagas/domo"
+, "author" : "George Stagas <gstagas@gmail.com> (http://stagas.com/)"
+, "repository" :
+  { "type" : "git"
+  , "url" : "https://github.com/stagas/domo.git"
+  }
+, "main": "./domo"
+, "engines" : { "node" : ">=0.4.7" }
+}
